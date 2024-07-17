@@ -31,7 +31,7 @@ Classificatio" (ISBI, 2024)
 | EfficientNet-b0+P-Net |  3.5M   |  0.992   |  0.993    |  0.992   |
 
 
-### Colon cancer histopathological datase
+### Colon cancer histopathological dataset
 
 | Model                 | Params  | Accuracy | Precision |  Recall  |
 |-----------------------|---------|----------|-----------|----------|
