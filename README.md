@@ -1,7 +1,7 @@
 # P-Net: A CNN Model with Pseudo Dense Layers
 This is the official implementation of "A CNN Model with Pseudo Dense Layers:
 Some Case Studies on Medical Image
-Classificatio" (ISBI, 2024)
+Classificatio" (NHIB, 2024)
 
 ### Overall workflow:
 ![architecture](https://github.com/mridulbiswas402/P-Net/blob/main/results/PNet.png?raw=true)
