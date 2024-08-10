@@ -56,7 +56,6 @@ Mahantapas Kundu<br/>
 
 ## Citation :
 Please do cite our paper in case you find it useful for your research.<br/>
-Citation-<br/>
-
 <br/>
--Link to our paper-<br/>
+Biswas, M., Sikdar, R., Sarkar, R. et al. A CNN model with pseudo dense layers: some case studies on medical image classification. Netw Model Anal Health Inform Bioinforma 13, 41 (2024). https://doi.org/10.1007/s13721-024-00474-1
+<br/>
